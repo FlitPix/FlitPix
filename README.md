@@ -16,9 +16,9 @@ My pronouns are He/Him, though I don't care if you accidentally use something el
 
 ## 🌱 I'm learning...
 - [PHP](https://github.com/topics/php)
-- [Ruby](https://github.com/topics/ruby) + [Rails](https://github.com/rails/rails)
+- [C](https://github.com/topics/c)
 
-I don't like using web frameworks (except Rails for applications). All of my websites are either coded from scratch, or powered explicitly by open source projects.
+I don't like using web frameworks. All of my websites are either coded from scratch, or powered explicitly by open source projects.
 
 ## Projects
 
