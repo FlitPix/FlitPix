@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a hobbyist programmer for the United States.
+I'm a hobbyist programmer from the United States.
 
 Any pronouns are fine, though I generally refer to myself using He/Him.
 
