@@ -8,7 +8,7 @@
 
 I'm a hobbyist programmer from the United States.
 
-Any pronouns are fine, though I generally refer to myself using He/Him.
+They/Them pronouns please!
 
 ## I'm proficient in...
 - [HTML](https://github.com/topics/html) + [CSS](https://github.com/topics/css)
@@ -28,7 +28,7 @@ I don't like using web frameworks. All of my websites are either coded from scra
 
 ## Find me on...
 
-- [Mastodon (@flit@guild.pmdcollab.org)](https://guild.pmdcollab.org/@flit)
+- [Akkoma/Fediverse](https://akkoma.flitpix.net/users/flit)
 
 I'll answer DMs, asks, etc. on these platforms.
 
@@ -36,4 +36,4 @@ I'm also on [Matrix](https://matrix.org/) and [Discord](https://discord.com/), t
 
 ## Copyright Disclaimer
 
-Vulpix is a character from Pokémon, which is © 2002-2023 Pokémon, © 1995-2023 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names (including Vulpix) are trademarks of Nintendo.
+Vulpix is a character from Pokémon, which is © 2002-2024 Pokémon, © 1995-2024 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names (including Vulpix) are trademarks of Nintendo.
